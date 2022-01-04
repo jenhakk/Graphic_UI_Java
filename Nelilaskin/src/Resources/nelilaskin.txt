@@ -1,0 +1,56 @@
+Thu Oct 01 14:04:23 EEST 2020 Ohjelma käynnistetty
+Laskutoimitus: 4 + 6 = 10
+Laskutoimitus: 2 - 3 = -1
+Laskutoimitus: 6 * 8 = 48
+Laskutoimitus: 5.0 / 6.0 = 0.8333333
+Laskutoimitus: 0.0 / 4.0 = 0.0
+Laskutoimitus: 4.0 / 0.0 = Infinity
+Laskutoimitus: 6 + 6 = 12
+Thu Oct 01 14:05:40 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 14:35:11 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 14:35:16 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 14:35:55 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 14:36:47 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 14:37:48 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:06:41 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:10:27 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:10:45 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:10:48 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:11:55 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:12:00 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:18:19 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:18:29 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:22:01 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:22:07 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:22:20 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:22:26 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:22:40 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:22:47 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:23:03 EEST 2020 Ohjelma käynnistetty
+Laskutoimitus: 5 + 7 = 12
+Thu Oct 01 15:23:30 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:24:25 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:24:41 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:26:04 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:26:07 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:27:59 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:28:03 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:29:11 EEST 2020 Ohjelma käynnistetty
+Laskutoimitus: 6 * 5 = 30
+Thu Oct 01 15:29:33 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:29:36 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:29:46 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:29:50 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 15:32:21 EEST 2020 Ohjelma käynnistetty
+Thu Oct 01 15:32:25 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 18:54:58 EEST 2020 Ohjelma lopetettu
+Thu Oct 01 19:27:08 EEST 2020 Ohjelma käynnistetty
+Laskutoimitus: 7 * 180 = 1260
+Laskutoimitus: 7 * 80 = 560
+Laskutoimitus: 7 * 20 = 140
+Thu Oct 01 21:12:14 EEST 2020 Ohjelma lopetettu
+Fri Oct 02 09:20:19 EEST 2020 Ohjelma käynnistetty
+Laskutoimitus: 6 * 7 = 42
+Fri Oct 02 09:20:29 EEST 2020 Ohjelma lopetettu
+Fri Oct 02 09:31:11 EEST 2020 Ohjelma käynnistetty
+Fri Oct 02 09:31:25 EEST 2020 Ohjelma lopetettu
