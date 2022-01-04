@@ -1,0 +1,3 @@
+Kahvi = 2.00
+Pulla = 1.50
+Lounas = 8.90

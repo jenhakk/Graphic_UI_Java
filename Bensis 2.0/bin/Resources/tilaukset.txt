@@ -1,0 +1,30 @@
+Thu Oct 22 14:30:20 EEST 2020 Tilattu: 
+E95: 100 litraa
+Diesel: 100 litraa
+Sat Oct 24 10:01:06 EEST 2020 Tilattu: 
+E95: 1000 litraa
+E98: 1000 litraa
+Diesel: 1000 litraa
+Sat Oct 24 11:21:29 EEST 2020 Tilattu: 
+E95: 85 litraa
+E98: 20 litraa
+Diesel: 600 litraa
+Sat Oct 24 13:17:18 EEST 2020 Tilattu: 
+E95: 1000 litraa
+Sat Oct 24 13:18:57 EEST 2020 Tilattu: 
+E95: 700 litraa
+Sat Oct 24 13:23:29 EEST 2020 Tilattu: 
+E95: 199 litraa
+Sat Oct 24 13:24:35 EEST 2020 Tilattu: 
+E95: 100 litraa
+Sat Oct 24 13:26:42 EEST 2020 Tilattu: 
+E95: 50 litraa
+Sat Oct 24 13:27:39 EEST 2020 Tilattu: 
+E98: 500 litraa
+Diesel: 500 litraa
+Sat Oct 24 14:25:04 EEST 2020 Tilattu: 
+E98: 100 litraa
+Sat Oct 24 14:30:25 EEST 2020 Tilattu: 
+E95: -100 litraa
+Sat Oct 24 14:49:39 EEST 2020 Tilattu: 
+E95: 100 litraa
