@@ -13,6 +13,12 @@ My first ever made GUI program! It's a dice!
 
 ![Picofdice](EKA%20GUI/noppa.jpg)
 
+## Picture gallery with menu
+
+Exercise for creating picture gallery with different menus.
+
+![Picture of gallery](Kuvagalleria%20valikoilla/gallery.jpg)
+
 
 ## Nelilaskin
 
