@@ -5,7 +5,14 @@
 
 Big project executed with two other students in the beginning of first year studies. Exercise was to create Gas station program with UI. It was divided in three parts and each of us programmed our own part. 
 
-You can read more from this project from its folders README.md
+You can read more from this project from its folder README.md
+
+## EKA GUI
+
+My first ever made GUI program! It's a dice!
+
+![Picofdice](EKA%20GUI/noppa.jpg)
+
 
 ## Nelilaskin
 
