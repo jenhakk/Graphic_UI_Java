@@ -51,7 +51,7 @@ These were mandatory areas of the program:
      
      - Passwords are encrypted with MD5
      
-     
+   
 **Grade: 5/5**
 
 
