@@ -11,7 +11,7 @@ You can read more from this project from its folders README.md
 
 My first ever made GUI program! It's a dice!
 
-![Picofdice]("EKA GUI"/noppa.jpg)
+![Picofdice](EKA%20GUI/noppa.jpg)
 
 
 ## Nelilaskin
