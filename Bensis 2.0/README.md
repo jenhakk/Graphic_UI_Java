@@ -53,7 +53,7 @@ These were mandatory areas of the program:
      
    **In addition to these, I made some extra features:**
      
-     - User gets a warning if he tries to order fuel more than it fits in the tank
+     - User gets a warning if he tries to order fuel more than the tanks capacity allows
      
      - After the order has been made, user can update the tanks capacity. This can also be done after customer has filled up
      
