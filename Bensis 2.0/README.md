@@ -51,6 +51,18 @@ These were mandatory areas of the program:
      
      - Passwords are encrypted with MD5
      
+     **In addition to these, I made some extra features:**
+     
+     - User gets a warning if he tries to order fuel more than it fits in the tank
+     
+     - After the order has been made, user can update the tanks capacity. This can also be done after filling up
+     
+     - User can check order history and "print" it as well as delete it 
+     
+     - Order history window has a scroll bar
+     
+     - In the menu there are buttons for maintenance and logging out
+     
    
 **Grade: 5/5**
 
