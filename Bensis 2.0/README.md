@@ -4,6 +4,8 @@ Project made with two other students. Exercise was to create a gas station progr
 
 Each of us had our own ares and we coded them on our own (before we knew about github) and in the end I merged them into one and made necessary changes to it work as one. 
 
+You can see some windows of the project in the picture folder.
+
 These were mandatory areas of the program:
 
 
