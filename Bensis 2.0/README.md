@@ -55,7 +55,7 @@ These were mandatory areas of the program:
      
      - User gets a warning if he tries to order fuel more than it fits in the tank
      
-     - After the order has been made, user can update the tanks capacity. This can also be done after filling up
+     - After the order has been made, user can update the tanks capacity. This can also be done after customer has filled up
      
      - User can check order history and "print" it as well as delete it 
      
