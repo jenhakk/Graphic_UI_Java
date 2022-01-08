@@ -2,7 +2,7 @@
 
 Project made with two other students. Exercise was to create a gas station program with UI and it was divided in three areas. 
 
-Each of us had our own ares and we coded them on our own (before we knew about github) and in the end I merged them into one. 
+Each of us had our own ares and we coded them on our own (before we knew about github) and in the end I merged them into one and made necessary changes to it work as one. 
 
 These were mandatory areas of the program:
 
@@ -63,7 +63,19 @@ These were mandatory areas of the program:
      
      - In the menu there are buttons for maintenance and logging out
      
-   
+   **My files were:**
+     
+     - Bensatankki.java
+     
+     - Kirjautumisikkuna.java
+     
+     - Tilaushistoria.java
+     
+     - Tilauslomake.java
+     
+     - Yllapitoikkuna.java
+     
+     
 **Grade: 5/5**
 
 
