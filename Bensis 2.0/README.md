@@ -51,7 +51,7 @@ These were mandatory areas of the program:
      
      - Passwords are encrypted with MD5
      
-     **In addition to these, I made some extra features:**
+   **In addition to these, I made some extra features:**
      
      - User gets a warning if he tries to order fuel more than it fits in the tank
      
